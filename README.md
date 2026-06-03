@@ -9,3 +9,4 @@
 - [4일차](https://github.com/cookiecookingbear/2604_Portfolio_Platformer/blob/main/%EC%9D%BC%EC%A7%80/4%EC%9D%BC%EC%B0%A8.md)
 - [5일차](https://github.com/cookiecookingbear/2604_Portfolio_Platformer/blob/main/%EC%9D%BC%EC%A7%80/5%EC%9D%BC%EC%B0%A8.md)
 - [6일차](https://github.com/cookiecookingbear/2604_Portfolio_Platformer/blob/main/%EC%9D%BC%EC%A7%80/6%EC%9D%BC%EC%B0%A8.md)
+- [7일차](https://github.com/cookiecookingbear/2604_Portfolio_Platformer/blob/main/%EC%9D%BC%EC%A7%80/7%EC%9D%BC%EC%B0%A8.md)
